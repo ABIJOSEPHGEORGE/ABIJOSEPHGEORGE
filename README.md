@@ -1,3 +1,6 @@
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://user-images.githubusercontent.com/60442324/233789761-569fbf12-b216-48e0-8427-1c242f0583d7.gif)
+
+
 # 💫 About Me:
 👋 Hi there, my name is Abin George and I am a MERN stack developer. I am a self-taught developer who is passionate about creating clean, efficient, and functional web applications. 💻🚀 With my expertise in MongoDB, Express, React, and Node.js, I am able to build dynamic and responsive websites that meet the needs of businesses and users alike.<br><br>🚀 My journey as a developer began when I discovered my passion for coding and decided to pursue it on my own. Through countless hours of online courses, tutorials, and practice, I honed my skills and developed a strong understanding of web development concepts and best practices. I love the challenge of problem-solving and am always looking for ways to improve my abilities and stay up-to-date with the latest technologies.<br><br>🌎 When I'm not coding, you can find me exploring new places, trying new foods, or spending time with my family and friends. I believe in the power of community and collaboration, and I am always eager to work with others to create something amazing. 💪
 
